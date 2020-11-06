@@ -1,0 +1,4 @@
+FONCTION Majeur5 (param1,param2) : type_retour;
+DEBUT {Majeur5}
+     corp_de_la_fonction
+FIN; {Majeur5}
